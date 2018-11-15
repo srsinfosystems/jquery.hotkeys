@@ -1,4 +1,4 @@
-/*jslint browser: true*/
+/*ssjslint browser: true*/
 /*jslint jquery: true*/
 
 /*
